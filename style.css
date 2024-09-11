@@ -2167,7 +2167,7 @@ a {
 }
 
 .div-inside {
-  background-image: url("https://cdn.prod.website-files.com/66d75722586d170d079ab71e/66d75b5b8a98c644ac0c5ebd_Websiteheader.jpg");
+  background-image: url(".\images\Websiteheader.webp");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2254,7 +2254,7 @@ a {
 }
 
 .second-image {
-  background-image: url("./images/Foto%202.webp");
+  background-image: url("./images/foto-202.webp");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
@@ -2385,7 +2385,7 @@ a {
 }
 
 .third-image {
-  background-image: url("./images/foto%203.webp");
+  background-image: url("./images/foto-203.webp");
   background-position: 50% 0;
   background-repeat: no-repeat;
   background-size: cover;
