@@ -2393,13 +2393,13 @@ a {
   height: 100vh;
 }
 
+.section.about {
+  padding-bottom: 140px;
+}
+
 @media screen and (max-width: 991px) {
   .section {
     height: 100vh;
-  }
-
-  .section.about {
-    padding-bottom: 100px;
   }
 
   .div-inside {
